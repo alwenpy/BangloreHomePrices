@@ -2,3 +2,4 @@ pickle
 json
 numpy
 flask
+gunicorn
